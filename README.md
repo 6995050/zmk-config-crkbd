@@ -1,3 +1,5 @@
+This is private keymap by xc for testing. 
+
 # Corne ZMK setup
 This is suitable for Corne with the following features:
 - 42 keys
